@@ -1,1 +1,1 @@
-# blackhat hacking
+# blackhat hacking or ethical hacking
